@@ -16,11 +16,11 @@ git config --global core.editor nano
 iga skripti eesmärk on installeerida või kontrollida mingi tarkvara olemas olu.
 
 Skriptide paigaldamise järjekord
-1.apache
-2.mysql
-3.php
-4.phpmyadmin
-5.Wordpress
+1. apache
+2. mysql
+3. php
+4. phpmyadmin
+5. Wordpress
 
 ---
 Küsimuste korral kirjutada erki.luik.001@khk.ee
