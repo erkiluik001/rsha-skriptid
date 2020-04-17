@@ -25,3 +25,5 @@ Skriptide paigaldamise järjekord
 ---
 Küsimuste korral kirjutada erki.luik.001@khk.ee
 ---
+
+Asible Skriptide vaatamiseks mine github.com/erkiluik001/ansible-skriptid
